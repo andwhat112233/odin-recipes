@@ -12,3 +12,4 @@ Before Website design thoughts
          -realization that good planning helps save time and improves consistency, i.e. finding all the recipes and how the page layout will be before hand.
          -making notes of task helps from switching back and forth from windows
          -making the pages i know i will need ahead of time helps with organization of files
+         -focus on one page at a time because the next page will likely use similar format
