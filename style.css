@@ -1,5 +1,70 @@
+* {
+    font-family: Georgia, "Times New Roman", sans-serif;
+}
+
 
 .button {
-    color: red;
-    
+    color: rgb(0, 0, 0);
+    height: 50px;
+    width: 500px;
+    background-color: rgb(185, 220, 253);
+    font-size: 20px;
+    text-align: center;
+}
+
+#head1{
+    text-align: center;
+    text-decoration-line: underline;
+}
+
+#head2 {
+    margin-bottom:1px;
+}
+
+#list1 {
+    list-style-position: inside;
+    text-align:center;
+    list-style-type: none;
+}
+
+#list2 {
+    text-align:left;
+}
+.textcenter {
+    text-align: center;
+}
+
+.subhead {
+    margin-bottom: 30px;
+    font-weight:150px;
+}
+
+#picturealign {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.background {
+    margin-left: 100px;
+    margin-right: 100px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+    padding-top: 20px;
+    margin-top:5px;
+    margin-bottom:5px;
+    border-radius:70px;
+}
+
+#chili {
+    background-color: rgb(216, 133, 86);
+}
+
+#tuna {
+    background-color: rgb(216, 133, 86);
+}
+
+#eggs {
+    background-color: rgb(216, 133, 86);
 }
