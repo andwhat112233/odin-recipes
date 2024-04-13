@@ -12,9 +12,20 @@
     text-align: center;
 }
 
+.buttongroup {
+    display: inline-block;
+    text-align: center;
+    padding: 10px;
+    margin: 0 auto;
+    width:500px;
+    margin-left:85px
+}
+
 #head1{
     text-align: center;
     text-decoration-line: underline;
+    display:block;
+    margin:100px;
 }
 
 #head2 {
